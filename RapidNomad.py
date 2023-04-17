@@ -3,6 +3,7 @@ import random
 import ipyleaflet
 import folium
 import folium.plugins as plugins
+import xyzservices as xyz
 
 class Map(ipyleaflet.Map):
     

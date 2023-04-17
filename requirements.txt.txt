@@ -1,7 +1,0 @@
-conda create -n RapidNomad python
-
-pip install:
-	geosdemo
-	leafmap
-	ipyleaflet
-	folium
