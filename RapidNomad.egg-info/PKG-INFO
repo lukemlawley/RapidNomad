@@ -11,8 +11,7 @@ Classifier: Development Status :: 1 - initial
 Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Natural Language :: English
-Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3.7Programming Language :: Python :: 3.8Programming Language :: Python :: 3.9Programming Language :: Python :: 3.10Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.11
 Requires-Python: >=3.11
 Description-Content-Type: text/markdown
 License-File: LICENSE
