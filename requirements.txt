@@ -1,2 +1,7 @@
 conda create -n RapidNomad python
-pip install leafmap geemap networkx ipyleaflet folium cookiecutter twine
+
+pip install:
+	geosdemo
+	leafmap
+	ipyleaflet
+	folium
