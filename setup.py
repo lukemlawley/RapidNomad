@@ -33,7 +33,7 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
-        'Programming Language :: Python :: 3.11'
+        'Programming Language :: Python :: 3.11',
     ],
     description="Geog422 Project",
     install_requires=install_requires,
