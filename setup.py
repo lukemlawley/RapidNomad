@@ -29,7 +29,7 @@ setup(
     author_email='lukemlawley@gmail.com',
     python_requires='>=3.11',
     classifiers=[
-        'Development Status :: 1 - initial',
+        'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
